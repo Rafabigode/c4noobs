@@ -91,7 +91,7 @@ int main(void){
     printf("Digite um numero inteiro: ");
     scanf("%d", &a);   // recebe um inteiro e armazena na variável a
   
-    printf("Digite um numero inteiro: ");
+    printf("Digite um numero de  a );
     scanf("%d", &b);   // recebe um inteiro e armazena na variável b
     
     soma = a + b;   // Efetua adição de a com b e armazena na variável soma
